@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\bin\Debug\netstandard2.1\BusinessLayer.deps.json
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\bin\Debug\netstandard2.1\BusinessLayer.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\bin\Debug\netstandard2.1\BusinessLayer.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\BusinessLayer\obj\Debug\netstandard2.1\BusinessLayer.pdb

@@ -1,0 +1,31 @@
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\bin\Debug\EncuestadorITLA.exe.config
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\bin\Debug\EncuestadorITLA.exe
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\bin\Debug\EncuestadorITLA.pdb
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.csprojAssemblyReference.cache
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.Login.resources
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.Properties.Resources.resources
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.GenerateResource.cache
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.CoreCompileInputs.cache
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.exe
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.pdb
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.CreateUser.resources
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\bin\Debug\BusinessLayer.dll
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\bin\Debug\BusinessLayer.pdb
+C:\Users\Miche\source\repos\EncuestadorITLA\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\bin\Debug\EncuestadorITLA.exe.config
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\bin\Debug\EncuestadorITLA.exe
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\bin\Debug\EncuestadorITLA.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\bin\Debug\BusinessLayer.dll
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\bin\Debug\BusinessLayer.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.CreateUser.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.Login.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.Properties.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.csproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.exe
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.pdb
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.Encuesta.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.Nueva_Encuesta.resources
+C:\Users\User\Desktop\Nueva carpeta (2)\EncuestadorITLA\obj\Debug\EncuestadorITLA.Preguntas.resources
